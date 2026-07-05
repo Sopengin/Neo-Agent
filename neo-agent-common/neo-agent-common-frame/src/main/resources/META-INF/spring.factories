@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  com.sopengin.neo.environment.SpringEnvironment
+org.springframework.context.ApplicationContextInitializer=\
+  com.sopengin.neo.core.SpringUtil
