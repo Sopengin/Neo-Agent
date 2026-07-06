@@ -1,0 +1,2 @@
+com.sopengin.neo.config.NeoAgentCommonAutoConfig
+com.sopengin.neo.database.mybatisplus.MybatisPlusAutoConfiguration
