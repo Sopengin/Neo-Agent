@@ -1,0 +1,1 @@
+CREATE DATABASE neo_agent_pgvector WITH ENCODING 'UTF8';
