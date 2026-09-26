@@ -55,3 +55,7 @@ playwright-report/
 .vite/
 *.class
 .DS_Store
+
+# Python / 系统文件
+__pycache__/
+*.pyc
